@@ -1,11 +1,3 @@
-const add = (a, b) => {
-	return a + b
-}
-
-const subtract = (a, b) => {
-	return a - b
-}
-
 // 팩토리얼: n!
 const factorial = (n) => {
   if (n < 0) return NaN;
